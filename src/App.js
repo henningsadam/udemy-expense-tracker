@@ -29,17 +29,14 @@ const dummyData = [
   },
 ];
 
-
 const App = () => {
-  const [expenses, setExpenses] = useState(dummyData)
+  const [expenses, setExpenses] = useState(dummyData);
 
   const addExpenseHandler = (expense) => {
     setExpenses((prevExpenses) => {
-      return [
-        ...expenses,
-        expense
-      ]
-    })
+      return [expense, ...expenses];
+    });
+
     // setExpenses([
     //   ...expenses,
     //   expense
