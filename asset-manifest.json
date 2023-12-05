@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udemy-expense-tracker/static/css/main.fb37a1e6.css",
+    "main.js": "/udemy-expense-tracker/static/js/main.b41b8d15.js",
+    "index.html": "/udemy-expense-tracker/index.html",
+    "main.fb37a1e6.css.map": "/udemy-expense-tracker/static/css/main.fb37a1e6.css.map",
+    "main.b41b8d15.js.map": "/udemy-expense-tracker/static/js/main.b41b8d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb37a1e6.css",
+    "static/js/main.b41b8d15.js"
+  ]
+}
